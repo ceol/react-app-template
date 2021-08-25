@@ -2,7 +2,7 @@
 
 Clone the template repository.
 
-    git clone {REPO} ./app-name/
+    git clone git@github.com:ceol/react-app-template.git ./app-name/
     cd ./app-name/
 
 Set the app name.
@@ -17,7 +17,7 @@ Start the development server.
 
     npm start
 
-Files under the `src/` directory will be compiled into and served from a `dist/` directory.
+Files under the `src/` directory will be compiled into and served from a `dist/` directory that will appear automatically.
 
 # Dependencies
 
